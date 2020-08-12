@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company_url = "https://icm-institute.org/"
   location = "Paris"
   date_start = "2019-10-01"
-  date_end = "2022-09-31"
-  description = """Thèse (en cours) dans le laboratoire Aramis."""
+  date_end = ""
+  description = """Thèse (en cours) dans le génialissime laboratoire Aramis, au coeur de la Pitié Salpétrière. Sous la direction de Stanley Durrleman."""
 
 [[experience]]
   title = "Stage de fin d'étude R&D"
