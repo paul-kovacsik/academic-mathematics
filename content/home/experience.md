@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2019-10-01"
   date_end = ""
-  description = """Thèse (en cours) dans le génialissime laboratoire Aramis, au coeur de la Pitié Salpétrière. Sous la direction de Stanley Durrleman."""
+  description = """Thèse (en cours) dans le génialissime laboratoire [Aramis](http://www.aramislab.fr/), au coeur de la Pitié Salpétrière. Sous la direction de [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/)."""
 
 [[experience]]
   title = "Stage de fin d'étude R&D"
