@@ -13,8 +13,10 @@ superuser: true
 role: En thèse
 
 # Organizations/Affiliations
-organizations: [Paris Brain Institute, Inria, Sorbonne Université]
-
+organizations:
+- name: Paris Brain Institute
+  url: ""
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les techniques de deep learning. 
 
