@@ -8,19 +8,12 @@ weight = 40  # Order that this section will appear.
 title = "Expérience"
 subtitle = ""
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Mission Doctorale"
   company = "Sorbonne Université"
-  company_url = "http://ufrmath.sorbonne-universite.fr/fr/index.html"
+  company_url = ""
   location = "Paris"
   date_start = "2020-01-02"
   date_end = ""
@@ -35,7 +28,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Doctorat"
   company = "Paris Brain Institute"
-  company_url = "https://icm-institute.org/"
+  company_url = ""
   location = "Paris"
   date_start = "2019-10-01"
   date_end = ""
