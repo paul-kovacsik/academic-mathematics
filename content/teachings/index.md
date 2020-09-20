@@ -15,6 +15,6 @@ header:
 ---
 
 Alors : 
-* année 2019/2020: [LU3MA236]{{< ref "teachings/LU3MA236.md" >}}
-* année 2020/2021: [LU1MA001]{{< ref "teachings/LU1MA001.md" >}}
+* année 2019/2020: [LU3MA236]{{< ref "teachings/LU3MA236/" >}}
+* année 2020/2021: [LU1MA001]{{< ref "teachings/LU1MA001/" >}}
 
