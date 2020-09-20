@@ -13,11 +13,11 @@ header:
   caption: ""
   image: "headers/blackboard.jpg"
   
-# [LU3MA236]{{< ref "teachings/LU3MA236/index.md" >}}
-# [LU1MA001]{{< ref "teachings/LU1MA001/index.md" >}}
+# 
+# 
 ---
 
 Alors : 
-* année 2019/2020: 
-* année 2020/2021: 
+* année 2019/2020: [LU3MA236]({{< relref "LU3MA236/index.md" >}})
+* année 2020/2021: [LU1MA001]({{< relref "LU1MA001/index.md" >}})
 

@@ -8,21 +8,20 @@ reading_time: false
 share: false
 profile: false
 comments: false 
+editable: false
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
-  
 subtitle: Mathématiques pour les études scientifiques
 featured: true
 categories: ["Enseignement"]
 
 links:
-  - icon_pack: fab
-    icon: medium
-    name: Originally published on Medium
-    url: 'https://medium.com'
+  - icon_pack: ai
+    icon: moodle
+    name: Moodle available course
+    url: ''
+    
+highlight: true
+math = true
 ---
 
 Séance de TD #1 disponible ici ...
