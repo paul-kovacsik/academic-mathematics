@@ -6,7 +6,7 @@
 
 [[main]]
   name = "Enseignements"
-  url = "/teachings/_index.md"
+  url = "/teachings/"
   weight = 10
 
 [[main]]
