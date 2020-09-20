@@ -29,12 +29,12 @@ education:
   courses:
   - course: PhD en Mathématiques Appliquées
     institution: Inria
-    year: *2022*
+    year: 2022
   - course: MSc Mathématiques, Vision et Apprentissage
     institution: ENS Paris-Saclay
     year: 2018
   - course: MEng Mathématiques Appliquées
-    institution: Centrale Paris (*maintenant CentraleSupelec*)
+    institution: Centrale Paris (maintenant CentraleSupelec)
     year: 2017
 
 email: ""
