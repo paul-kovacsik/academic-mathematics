@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: En thèse
+role: Doctorant en deuxième année
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les techniques de deep learning. 
 
 interests:
-- Imagerie Médicale
 - Intelligence Artificielle
+- Imagerie Médicale
 - Enseignement
 
 education:
