@@ -3,7 +3,7 @@
 widget = "hero"  
 headless = true  
 active = false  
-weight = 10  .
+weight = 10
 
 title = "Academic"
 
