@@ -5,7 +5,7 @@
 
 widget = "featured"  
 headless = true  
-active = false  
+active = true 
 weight = 80  
 
 title = "Enseignements"

@@ -18,7 +18,7 @@ organizations:
   url: "https://institutducerveau-icm.org/en/"
   
 # Short bio (displayed in user profile at end of posts)
-bio: Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les techniques de deep learning. 
+bio: Deep Learning et médecine. 
 
 Intérêts:
 - Intelligence Artificielle
@@ -43,5 +43,5 @@ user_groups: []
 
 ---
 
-Doctorant dans l'équipe de recherche [Aramis](http://www.aramislab.fr/), au coeur de la Pitié Salpétrière. Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et le deep learning. 
+Doctorant dans l'équipe de recherche [Aramis](http://www.aramislab.fr/), au coeur de la Pitié Salpétrière. Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les applications du deep learning pour les méthodes de diffeomorphométrie. 
 Sous la direction de [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/).
