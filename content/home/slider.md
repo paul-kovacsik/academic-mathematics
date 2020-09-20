@@ -21,6 +21,7 @@ height = "300px"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_img = "headers/ICM2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.25
+  image_parallax = true
 
 [[item]]
   title = ""
@@ -28,4 +29,5 @@ height = "300px"
   align = "center"
   overlay_img = "headers/RG_illustration.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.25
+  image_parallax = true
 +++
