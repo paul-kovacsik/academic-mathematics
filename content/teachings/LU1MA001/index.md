@@ -21,7 +21,7 @@ links:
     url: ''
     
 highlight: true
-math = true
+math: true
 ---
 
 Séance de TD #1 disponible ici ...
