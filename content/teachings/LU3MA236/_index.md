@@ -1,5 +1,6 @@
 ---
 title: LU3MA236 2019/2020
+subtitle: Méthodes numériques pour les équations différentielles
 summary: L3 Equations différentielles et méthodes numériques
 date: "2018-06-28T00:00:00Z"
 
