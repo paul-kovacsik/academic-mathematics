@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paul Kovacsik
+title: Paul Vernhet - Kovacsik
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctorant en deuxième année
+role: Doctorant 
 
 # Organizations/Affiliations
 organizations:
 - name: Paris Brain Institute
-  url: ""
+  url: "https://institutducerveau-icm.org/en/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les techniques de deep learning. 
@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD en Intelligence Artificielle
-    institution: Sorbonne Université
+  - course: PhD en Mathématiques Appliquées
+    institution: Inria
     year: en cours
   - course: MSc Mathématiques, Vision et Apprentissage
     institution: ENS Paris-Saclay
     year: 2018
   - course: MEng Mathématiques Appliquées
-    institution: CentraleSupelec
+    institution: Centrale Paris (maintenant CentraleSupelec)
     year: 2017
 
 email: ""
@@ -43,4 +43,4 @@ user_groups: []
 
 ---
 
-Site dédié à mon expérience de l'enseignement des mathématiques.
+Doctorant dans l'équipe de recherche Aramis, au sein de l'ICM.
