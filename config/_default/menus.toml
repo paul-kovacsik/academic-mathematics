@@ -6,12 +6,12 @@
 
 [[main]]
   name = "Enseignement"
-  url = "#featured"
+  url = "/teachings"
   weight = 10
 
 [[main]]
   name = "A propos de moi"
-  url = "#about"
+  url = "/aboutme"
   weight = 40
 
 [[main]]
