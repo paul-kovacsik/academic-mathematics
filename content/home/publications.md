@@ -4,10 +4,10 @@
 
 widget = "pages"
 headless = true
-active = true
+active = false
 weight = 90
 
-title = "Recent Publications"
+title = "Publications récentes"
 subtitle = ""
 
 [content]
@@ -41,6 +41,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}

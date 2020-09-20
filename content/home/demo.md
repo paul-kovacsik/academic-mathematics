@@ -3,13 +3,13 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+widget = "blank"  
+headless = true  
+active = true  
+weight = 15  
 
-title = "Le projet du cerisier qui comptait"
-subtitle = ""
+title = "Et si un cerisier pouvait compter ?"
+subtitle = "Pour démarrer en douceur"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,12 +52,6 @@ subtitle = ""
 
 Bienvenue sur **Le cerisier qui comptait**.
 
-Je référence ici mon expérience de l'enseignement des mathématiques. Actuellement en thèse, je me dirige vers l'enseignement du secondaire (lycée) et du supérieur (Chaire CPGE), et souhaite ici partager ma passion pour ma discipline: les mathématiques, et son double, les *mathématiques appliqués* (`Python` à volonté).
+Je référence ici mon expérience de l'enseignement des mathématiques. 
 
-- résumé des cours, TP, TP enseignés
-- à propos de moi: les études, en passant par les stages et la thèse.
-- la préparation à l'agrégation de mathématiques
-
-{{% alert note %}}
-*Work In Progress*
-{{% /alert %}}
+{{% alert note %}}Année 2020/2021: MIPI 15.4 pour la [LU1MA001](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1ma001-mathematiques-pour-les-sciences-1.html){{% /alert %}}

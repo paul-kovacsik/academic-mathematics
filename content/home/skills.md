@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"
 headless = true
-active = true
+active = false
 weight = 30
 
 title = "Skills"
@@ -11,31 +11,31 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Aramis Lab"
-  description = "Medical Imaging"  
-  
-[[feature]]
-  icon = "calculator"
-  icon_pack = "fas"
-  name = "Applied Mathematics"
-  description = ""
+  name = "Imagerie Médicale"
+  description = "du cerveau"  
   
 [[feature]]
   icon = "square-root-alt"
-  icon_pack = "fab"
-  name = "Maths tutor"
-  description = "Teaching maths"
+  icon_pack = "fas"
+  name = "Mathématiques"
+  description = "appliquées"
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Code"
-  description = "Python"
+  description = "Python, Torch, Git entre autres"
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Prof de maths"
+  description = "chargé de TD à la Sorbonne"
   
 [[feature]]
   icon = "equals"
   icon_pack = "fas"
-  name = "Diversity"
-  description = ""
+  name = "Diversité"
+  description = "égalité des chances"
 
 +++

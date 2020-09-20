@@ -1,9 +1,9 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+widget = "experience"  
+headless = true  
+active = false
+weight = 40 
 
 title = "Expérience"
 subtitle = ""
@@ -21,8 +21,8 @@ date_format = "Jan 2006"
   Enseignant TP/TD à Sorbonne Université, UFR de mathématiques 929:
   
   * LU3MA236 - S2 : Méthodes numériques pour les équations differentielles (L3)
-  * LU1MA001 - S1 : Mathématiques pour les études scientifiques (L1) à venir
-  * LU2MA100 - S2 : Programmation Python pour les mathématiques (L2) à venir
+  * LU1MA001 - S1 : Mathématiques pour les études scientifiques (L1)
+  * LU2MA100 - S2 : Programmation Python pour les mathématiques (L2) *à venir*
   """
 
 [[experience]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2019-10-01"
   date_end = ""
-  description = """Thèse (en cours) dans le génialissime laboratoire [Aramis](http://www.aramislab.fr/), au coeur de la Pitié Salpétrière. Sous la direction de [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/)."""
+  description = """Thèse dans le génialissime laboratoire [Aramis](http://www.aramislab.fr/), au coeur de la Pitié Salpétrière. Sous la direction de [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/)."""
 
 [[experience]]
   title = "Stage de fin d'étude R&D"

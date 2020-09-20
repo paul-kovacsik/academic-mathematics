@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paul Vernhet - Kovacsik
+title: Paul Kovacsik
 
 # Username (this should match the folder name)
 authors:
@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les techniques de deep learning. 
 
-interests:
+Intérêts:
 - Intelligence Artificielle
 - Imagerie Médicale
 - Enseignement
@@ -29,12 +29,12 @@ education:
   courses:
   - course: PhD en Mathématiques Appliquées
     institution: Inria
-    year: en cours
+    year: *2022*
   - course: MSc Mathématiques, Vision et Apprentissage
     institution: ENS Paris-Saclay
     year: 2018
   - course: MEng Mathématiques Appliquées
-    institution: Centrale Paris (maintenant CentraleSupelec)
+    institution: Centrale Paris (*maintenant CentraleSupelec*)
     year: 2017
 
 email: ""
@@ -43,4 +43,5 @@ user_groups: []
 
 ---
 
-Doctorant dans l'équipe de recherche Aramis, au sein de l'ICM.
+Doctorant dans l'équipe de recherche [Aramis](http://www.aramislab.fr/), au coeur de la Pitié Salpétrière. Mes sujets de recherche portent sur l'imagerie médicale, le suivi de maladies neurodégénératives et les techniques de deep learning. 
+Sous la direction de [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/)
