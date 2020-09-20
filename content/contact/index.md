@@ -1,3 +1,10 @@
+---
+title: Contact
+summary: Me contnacter
+date: "2018-06-28T00:00:00Z"
+type: "widget_page"  # Page type is a Widget Page
+---
+
 +++
 # Contact widget.
 widget = "contact"  

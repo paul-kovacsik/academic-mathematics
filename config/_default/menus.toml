@@ -11,12 +11,12 @@
 
 [[main]]
   name = "A propos de ..."
-  url = "/aboutme/about"
+  url = "/aboutme"
   weight = 40
 
 [[main]]
   name = "Contact"
-  url = "/aboutme/contact"
+  url = "/contact"
   weight = 60
 
 
