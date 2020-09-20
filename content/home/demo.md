@@ -8,8 +8,8 @@ headless = true
 active = true  
 weight = 15  
 
-title = "Et si un cerisier pouvait compter ?"
-subtitle = "Pour démarrer en douceur"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = "Pour démarrer en douceur"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "#C0C0C0"
+  gradient_end = "#778899"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,8 +50,7 @@ subtitle = "Pour démarrer en douceur"
  css_class = ""
 +++
 
-Bienvenue sur **Le cerisier qui comptait**.
+Bienvenue sur **Le cerisier qui comptait**, un petit site sans prétention où l'on discute de mathématiques. 
+J'y référence aussi les TP et TD donnés.
 
-Je référence ici mon expérience de l'enseignement des mathématiques. 
-
-{{% alert note %}}Année 2020/2021: MIPI 15.4 pour la [LU1MA001](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1ma001-mathematiques-pour-les-sciences-1.html){{% /alert %}}
+{{% alert note %}}Actuellement: chargé de TD [LU1MA001](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1ma001-mathematiques-pour-les-sciences-1.html) de la MIPI 15.4 {{% /alert %}}

@@ -5,10 +5,10 @@
 
 widget = "featured"  
 headless = true  
-active = false  # Activate this widget? true/false
+active = false  
 weight = 80  
 
-title = "Publications"
+title = "Enseignements"
 subtitle = ""
 
 [content]
