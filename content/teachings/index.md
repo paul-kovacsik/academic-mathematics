@@ -18,6 +18,6 @@ header:
 ---
 
 Alors : 
-* année 2019/2020: [LU3MA236]({{< relref "LU3MA236/index.md" >}})
-* année 2020/2021: [LU1MA001]({{< relref "LU1MA001/index.md" >}})
+* année 2019/2020: [LU3MA236]({{< relref "LU3MA236/index.md#anchor" >}})
+* année 2020/2021: [LU1MA001]({{< relref "LU1MA001#anchor" >}})
 
