@@ -8,7 +8,7 @@ headless = true
 active = true 
 weight = 80  
 
-title = "Enseignements"
+title = "Enseignement"
 subtitle = ""
 
 [content]

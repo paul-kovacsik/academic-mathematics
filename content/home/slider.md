@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  
 headless = true 
-active = false  
+active = true  
 weight = 1 
 
 # Slide interval.
