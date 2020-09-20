@@ -5,18 +5,18 @@
 
 
 [[main]]
-  name = "Enseignement"
+  name = "Enseignements"
   url = "/teachings/teachings"
   weight = 10
 
 [[main]]
   name = "A propos de moi"
-  url = "/aboutme/index"
+  url = "/aboutme/about"
   weight = 40
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/aboutme/contact"
   weight = 60
 
 

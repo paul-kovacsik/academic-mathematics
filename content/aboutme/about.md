@@ -2,7 +2,7 @@
 # About widget.
 widget = "about"
 headless = true  
-active = false 
+active = true
 weight = 20  
 
 title = "A propos de moi"
