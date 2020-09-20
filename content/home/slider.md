@@ -11,13 +11,13 @@ interval = "5000"
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "1000px"
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "My lab'"
+  content = "Paris Brain Institute"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_img = "headers/ICM2.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
@@ -25,6 +25,7 @@ height = "1000px"
 [[item]]
   title = ""
   content = "Riemannian Geometry"
-  align = "right"
+  align = "center"
   overlay_img = "headers/RG_illustration.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.25
 +++
