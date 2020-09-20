@@ -6,7 +6,7 @@
 
 [[main]]
   name = "Enseignements"
-  url = "/teachings/teachings"
+  url = "/teachings"
   weight = 10
 
 [[main]]
