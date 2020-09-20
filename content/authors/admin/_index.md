@@ -33,7 +33,7 @@ education:
   - course: MSc Mathématiques, Vision et Apprentissage
     institution: ENS Paris-Saclay
     year: 2018
-  - course: Diplôme d'ingénieur - Mathématiques Appliquées
+  - course: Diplôme d'ingénieur
     institution: Centrale Paris (maintenant CentraleSupelec)
     year: 2017
 
