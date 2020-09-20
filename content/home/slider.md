@@ -24,7 +24,7 @@ height = "300px"
 
 [[item]]
   title = ""
-  content = "Riemannian Geometry"
+  content = "Géométrie Riemannienne"
   align = "center"
   overlay_img = "headers/RG_illustration.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.25

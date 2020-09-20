@@ -5,7 +5,7 @@ headless = true
 active = false 
 weight = 20  
 
-title = "A propos de moi"
+title = "A propos de ..."
 
 author = "admin"
 +++

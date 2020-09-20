@@ -10,7 +10,7 @@
   weight = 10
 
 [[main]]
-  name = "A propos de moi"
+  name = "A propos de ..."
   url = "/aboutme/about"
   weight = 40
 
